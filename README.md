@@ -1,2 +1,3 @@
-# my-developer-home
-my developer home
+# Hello, I'm Gavin
+I want to build a cool and swag game
+Scratch taught me how variables work
